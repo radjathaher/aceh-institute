@@ -13,6 +13,7 @@ import { renderToStaticMarkup } from "react-dom/server";
 
 const here = import.meta.dir;
 const rawDir = join(here, "raw");
+const cacheDir = join(here, ".cache");
 const contentDir = resolve(here, "../../content");
 const slidesDir = join(contentDir, "slides");
 
@@ -41,6 +42,20 @@ const DISPLAY_TEXT = (size: string) =>
     `<[^>]*style="[^"]*font-family:(?:var\\(--font-display\\)|Fraunces)[^"]*font-size:${size}[^"]*"[^>]*>([^<]+)<`,
     "i",
   );
+
+/**
+ * Paper emits comparison operators ("< 9%", "> 20%") as bare JSX text, which
+ * the parser reads as an unclosed tag. Wrap those lines in a string expression
+ * so re-exports compile without hand-editing the raw files.
+ */
+function sanitiseJsx(source: string): string {
+  return source.replace(
+    /^([ \t]*)([<>] [^<>{}\n]*?)[ \t]*$/gm,
+    (_line, indent: string, text: string) => {
+      return `${indent}{${JSON.stringify(text)}}`;
+    },
+  );
+}
 
 type Meta = {
   id: string;
@@ -96,7 +111,10 @@ async function buildOne(file: string): Promise<Meta> {
   const source = await Bun.file(join(rawDir, file)).text();
   const paperNodeId = source.match(/^\/\/ paper: (\S+)/m)?.[1] ?? "";
   const name = source.match(/^\/\/ name: (.+)$/m)?.[1]?.trim() ?? file;
-  const mod = (await import(join(rawDir, file))) as { default: () => unknown };
+  mkdirSync(cacheDir, { recursive: true });
+  const compiled = join(cacheDir, file);
+  writeFileSync(compiled, sanitiseJsx(source));
+  const mod = (await import(compiled)) as { default: () => unknown };
   const rendered = renderToStaticMarkup(createElement(mod.default as never)).replace(
     ASSET_RE,
     "/img/",
