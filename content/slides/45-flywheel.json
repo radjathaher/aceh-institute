@@ -1,5 +1,6 @@
 {
   "id": "45-flywheel",
+  "deck": "master",
   "nn": "45",
   "slug": "flywheel",
   "paperNodeId": "1D3-0",

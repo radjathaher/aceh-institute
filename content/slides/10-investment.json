@@ -1,5 +1,6 @@
 {
   "id": "10-investment",
+  "deck": "master",
   "nn": "10",
   "slug": "investment",
   "paperNodeId": "E5-0",

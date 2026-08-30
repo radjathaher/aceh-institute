@@ -10,6 +10,7 @@ import { readdirSync, writeFileSync, existsSync, mkdirSync } from "node:fs";
 import { join, resolve } from "node:path";
 import { createElement } from "react";
 import { renderToStaticMarkup } from "react-dom/server";
+import { deckForId, decks } from "./decks";
 
 const here = import.meta.dir;
 const rawDir = join(here, "raw");
@@ -59,6 +60,7 @@ function sanitiseJsx(source: string): string {
 
 type Meta = {
   id: string;
+  deck: string;
   nn: string;
   slug: string;
   paperNodeId: string;
@@ -88,14 +90,17 @@ function firstMatch(html: string, patterns: RegExp[]): string {
 }
 
 function extractMeta(html: string, file: string, paperNodeId: string, name: string): Meta {
-  const [, nn, slug] = file.match(/^(\d{2})-(.+)\.jsx$/) ?? [];
+  const id = file.replace(/\.jsx$/, "");
+  const deck = deckForId(id);
+  const [, nn, slug] = id.replace(deck.prefix, "").match(/^(\d{2})-(.+)$/) ?? [];
   const title = firstMatch(html, ["44px", "64px", "220px", "72px"].map(DISPLAY_TEXT));
   const section = firstMatch(html, [/>(\d\d · [A-Z][^<]{2,60})</, /(SECTION \d\d OF \d\d)/]);
   const sourceLine = firstMatch(html, [/>(Source: [^<]+)</]);
   const refs = Array.from(html.matchAll(/(?:src="|url\()(\/img\/[^"')]+)/g), (m) => m[1] ?? "");
   const images = Array.from(new Set(refs));
   return {
-    id: `${nn}-${slug}`,
+    id,
+    deck: deck.id,
     nn: nn ?? "",
     slug: slug ?? "",
     paperNodeId,
@@ -134,16 +139,16 @@ for (const file of files) {
   metas.push(await buildOne(file));
   console.log(`built ${file}`);
 }
-const masterPath = join(contentDir, "master.json");
-if (process.argv.includes("--init-master") || !existsSync(masterPath)) {
+const decksDir = join(contentDir, "decks");
+mkdirSync(decksDir, { recursive: true });
+for (const deck of decks) {
+  const slides = metas.filter((meta) => meta.deck === deck.id).map((meta) => meta.id);
+  if (slides.length === 0) continue;
+  const { prefix: _prefix, ...rest } = deck;
   writeFileSync(
-    masterPath,
-    `${JSON.stringify(
-      metas.map((m) => m.id),
-      null,
-      2,
-    )}\n`,
+    join(decksDir, `${deck.id}.json`),
+    `${JSON.stringify({ ...rest, slides }, null, 2)}\n`,
   );
-  console.log(`wrote master.json (${metas.length} slides)`);
+  console.log(`deck ${deck.id}: ${slides.length} slides`);
 }
-console.log(`done: ${metas.length} slides → ${slidesDir}`);
+console.log(`done: ${metas.length} slides \u2192 ${slidesDir}`);

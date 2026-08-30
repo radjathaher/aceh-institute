@@ -1,5 +1,6 @@
 {
   "id": "75-resources-200nm",
+  "deck": "master",
   "nn": "75",
   "slug": "resources-200nm",
   "paperNodeId": "2GA-0",

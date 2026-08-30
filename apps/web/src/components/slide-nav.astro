@@ -5,30 +5,31 @@ type Props = {
   prev?: string;
   next?: string;
   paperNodeId: string;
+  deckTitle: string;
+  deckHref: string;
 };
-const { index, total, prev, next, paperNodeId } = Astro.props;
+const { index, total, prev, next, paperNodeId, deckTitle, deckHref } = Astro.props;
 const paperUrl = `https://app.paper.design/file/01M18KDSJEN0TCH6K0JPSPVCA8/1-0/${paperNodeId}`;
 ---
 
 <nav class="slide-nav" aria-label="Slide navigation">
-  <a class="btn" href={prev ? `/s/${prev.slice(0, 2)}/` : undefined} aria-disabled={!prev}>← Previous</a>
+  <a class="btn" href={prev ? `/s/${prev}/` : undefined} aria-disabled={String(!prev)} rel="prev">← Previous</a>
+  <a class="btn" href={next ? `/s/${next}/` : undefined} aria-disabled={String(!next)} rel="next">Next →</a>
+  <a class="deck" href={deckHref + "/"}>{deckTitle}</a>
   <span class="counter">{String(index + 1).padStart(2, "0")} / {total}</span>
-  <a class="btn" href={next ? `/s/${next.slice(0, 2)}/` : undefined} aria-disabled={!next}>Next →</a>
   <a class="paper" href={paperUrl} target="_blank" rel="noopener">Open in Paper ↗</a>
 </nav>
 
 <script>
-  const prev = document.querySelector<HTMLAnchorElement>('.slide-nav a[href][aria-disabled="false"]:first-child');
-  const links = Array.from(document.querySelectorAll<HTMLAnchorElement>(".slide-nav a.btn[href]"));
-  const [first, last] = [links.at(0), links.at(-1)];
-  const goPrev = first?.textContent?.includes("Previous") ? first : undefined;
-  const goNext = last?.textContent?.includes("Next") ? last : undefined;
+  const prev = document.querySelector<HTMLAnchorElement>('.slide-nav a[rel="prev"][href]');
+  const next = document.querySelector<HTMLAnchorElement>('.slide-nav a[rel="next"][href]');
   window.addEventListener("keydown", (event) => {
     if (event.metaKey || event.ctrlKey || event.altKey) return;
-    if (event.key === "ArrowLeft" && goPrev) window.location.href = goPrev.href;
-    if (event.key === "ArrowRight" && goNext) window.location.href = goNext.href;
+    const target = event.target as HTMLElement | null;
+    if (target && /^(INPUT|TEXTAREA|SELECT)$/.test(target.tagName)) return;
+    if (event.key === "ArrowLeft" && prev) window.location.href = prev.href;
+    if (event.key === "ArrowRight" && next) window.location.href = next.href;
   });
-  void prev;
 </script>
 
 <style>
@@ -38,7 +39,7 @@ const paperUrl = `https://app.paper.design/file/01M18KDSJEN0TCH6K0JPSPVCA8/1-0/$
     gap: 16px;
     max-width: 1600px;
     margin: 0 auto;
-    padding: 16px 24px 48px;
+    padding: 16px 24px 64px;
     font-family: var(--font-mono);
     font-size: var(--text-source);
     letter-spacing: var(--tracking-wide);
@@ -48,13 +49,17 @@ const paperUrl = `https://app.paper.design/file/01M18KDSJEN0TCH6K0JPSPVCA8/1-0/$
     border: 1px solid var(--color-ink);
     border-radius: var(--radius-sm);
     background: var(--color-ground);
-    color: var(--color-ink);
   }
   .btn[aria-disabled="true"] {
-    opacity: 0.35;
+    opacity: 0.3;
     pointer-events: none;
   }
-  .counter {
+  .deck {
+    color: var(--color-ink);
+    border-bottom: 1px solid var(--color-line);
+  }
+  .counter,
+  .paper {
     color: var(--color-muted);
   }
   .paper {

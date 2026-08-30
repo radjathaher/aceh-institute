@@ -1,4 +1,4 @@
-# Aceh Institute
+# Aceh Manifesto
 
 Source for **acehinstitute** — the website of _Aceh 2045 · Production Autonomy_, a
 source-linked deck on Aceh's special autonomy: what the Helsinki MoU promised, what
@@ -37,5 +37,5 @@ is configured yet.
 ## Licence
 
 - Code (`apps/`, `tools/`, configuration): [MIT](LICENSE).
-- Content — slides, research notes, generated images, the Aceh Institute name:
+- Content — slides, research notes, generated images, the Aceh Manifesto name:
   copyright © 2026 Radja Thaher, all rights reserved. See [LICENSE-CONTENT](LICENSE-CONTENT).

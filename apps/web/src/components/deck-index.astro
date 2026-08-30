@@ -1,0 +1,104 @@
+---
+import type { Deck, SlideMeta } from "~/common/load-decks";
+
+type Props = { deck: Deck; slides: SlideMeta[] };
+const { deck, slides } = Astro.props;
+---
+
+<main class="deck-index">
+  <p class="kicker">{deck.kicker}</p>
+  <h1>{deck.title}</h1>
+  <p class="lede">{deck.description}</p>
+  <p class="count">{slides.length} slides · start at <a href={`/s/${slides[0]?.id}/`}>the first</a>, or jump in</p>
+  <ol class="slides">
+    {
+      slides.map((slide, index) => (
+        <li>
+          <a href={`/s/${slide.id}/`}>
+            <span class="num">{String(index + 1).padStart(2, "0")}</span>
+            <span class="title">{slide.title || slide.name}</span>
+            <span class="section">{slide.section}</span>
+          </a>
+        </li>
+      ))
+    }
+  </ol>
+</main>
+
+<style>
+  .deck-index {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 48px 24px 96px;
+  }
+  .kicker {
+    font-family: var(--font-mono);
+    font-size: var(--text-source);
+    letter-spacing: var(--tracking-wide);
+    color: var(--color-red);
+    margin: 0;
+  }
+  h1 {
+    font-family: var(--font-display);
+    font-size: var(--text-web-h1);
+    line-height: var(--leading-web-h1);
+    font-weight: 600;
+    letter-spacing: -0.03em;
+    margin: 8px 0 16px;
+  }
+  .lede {
+    font-size: 20px;
+    line-height: 30px;
+    color: var(--color-muted);
+    max-width: var(--container-prose);
+    margin: 0 0 8px;
+  }
+  .count {
+    font-family: var(--font-mono);
+    font-size: var(--text-source);
+    color: var(--color-muted);
+    margin: 0 0 40px;
+  }
+  .count a {
+    color: var(--color-red);
+  }
+  .slides {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    border-top: 1px solid var(--color-line);
+  }
+  .slides a {
+    display: flex;
+    gap: 20px;
+    align-items: baseline;
+    padding: 12px 8px;
+    border-bottom: 1px solid var(--color-line);
+  }
+  .slides a:hover {
+    background: var(--color-tint);
+  }
+  .num {
+    font-family: var(--font-mono);
+    font-size: var(--text-source);
+    color: var(--color-muted);
+    width: 32px;
+    flex-shrink: 0;
+  }
+  .title {
+    font-family: var(--font-display);
+    font-size: 19px;
+    font-weight: 600;
+    line-height: 26px;
+    flex-grow: 1;
+  }
+  .section {
+    font-family: var(--font-mono);
+    font-size: 12px;
+    letter-spacing: var(--tracking-wide);
+    color: var(--color-muted);
+    flex-shrink: 0;
+    text-align: right;
+    width: 200px;
+  }
+</style>

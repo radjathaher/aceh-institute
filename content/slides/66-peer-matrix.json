@@ -1,5 +1,6 @@
 {
   "id": "66-peer-matrix",
+  "deck": "master",
   "nn": "66",
   "slug": "peer-matrix",
   "paperNodeId": "23U-0",

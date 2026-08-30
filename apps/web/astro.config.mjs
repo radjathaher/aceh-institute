@@ -2,7 +2,7 @@
 import { defineConfig } from "astro/config";
 
 export default defineConfig({
-  site: "https://aceh-institute.pages.dev",
+  site: "https://aceh-manifesto.pages.dev",
   output: "static",
   compressHTML: false,
   trailingSlash: "always",

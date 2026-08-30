@@ -1,0 +1,13 @@
+{
+  "id": "playbooks",
+  "title": "Sector playbooks",
+  "kicker": "TWELVE SECTORS",
+  "description": "For each sector: the market baseline, the map of instruments that govern it, and a three-phase play with proposed KPIs.",
+  "href": "/playbooks",
+  "slides": [
+    "m1-01-gas-arun-market",
+    "m1-02-gas-arun-legal-map",
+    "m1-19-education-market",
+    "m1-20-education-legal-map"
+  ]
+}

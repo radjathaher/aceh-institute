@@ -1,0 +1,12 @@
+{
+  "id": "register",
+  "title": "Gap register",
+  "kicker": "THIRTEEN ARTICLES",
+  "description": "Every UUPA mandate that was written and not executed: the instrument needed, who holds the key, and what unblocks it.",
+  "href": "/register",
+  "slides": [
+    "m3-01-land",
+    "m3-02-ports-airports",
+    "m3-03-fiscal-facilities"
+  ]
+}

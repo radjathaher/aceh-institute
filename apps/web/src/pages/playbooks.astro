@@ -1,0 +1,14 @@
+---
+import SiteLayout from "~/layouts/site-layout.astro";
+import SiteHeader from "~/components/site-header.astro";
+import DeckIndex from "~/components/deck-index.astro";
+import { loadDecks, loadDeckSlides } from "~/common/load-decks";
+
+const deck = loadDecks().find((entry) => entry.id === "playbooks")!;
+const slides = loadDeckSlides(deck);
+---
+
+<SiteLayout title={`${deck.title} — Aceh Manifesto`} description={deck.description} canonical="/playbooks/">
+  <SiteHeader />
+  <DeckIndex deck={deck} slides={slides} />
+</SiteLayout>

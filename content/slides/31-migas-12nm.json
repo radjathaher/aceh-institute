@@ -1,5 +1,6 @@
 {
   "id": "31-migas-12nm",
+  "deck": "master",
   "nn": "31",
   "slug": "migas-12nm",
   "paperNodeId": "TS-0",

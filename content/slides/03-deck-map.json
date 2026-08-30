@@ -1,5 +1,6 @@
 {
   "id": "03-deck-map",
+  "deck": "master",
   "nn": "03",
   "slug": "deck-map",
   "paperNodeId": "4T-0",

@@ -1,5 +1,6 @@
 {
   "id": "41-divider-gateway",
+  "deck": "master",
   "nn": "41",
   "slug": "divider-gateway",
   "paperNodeId": "74W-0",

@@ -1,5 +1,6 @@
 {
   "id": "01-cover",
+  "deck": "master",
   "nn": "01",
   "slug": "cover",
   "paperNodeId": "1-0",
