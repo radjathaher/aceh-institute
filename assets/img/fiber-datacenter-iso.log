@@ -1,9 +1,3 @@
-editing image (img2img) with 1 ref(s)
-error: http 400: {
-  "error": {
-    "message": "Invalid file 'image[0]': unsupported mimetype ('application/octet-stream'). Supported file formats are 'image/jpeg', 'image/png', and 'image/webp'.",
-    "type": "invalid_request_error",
-    "param": "image[0]",
-    "code": "unsupported_file_mimetype"
-  }
-}
+generating image with gpt-image-2
+done in 44.668s
+{"provider":"openai","endpoint":"/v1/images/generations","model":"gpt-image-2","input":{"kind":"prompt","source":"Clean isometric illustration of a regional fiber-optic network: a small data centre building, fiber ducts along a coastal road, a subsea cable landing station on a beach, a cell tower on a hill, a satellite dish. Editorial documentary photograph or clean isometric illustration, ink-black and deep-red accents on white, high contrast, minimal, no text, no flags, no logos, no recognisable faces."},"output":"image","usage":{"input_tokens":89,"input_tokens_details":{"image_tokens":0,"text_tokens":89},"output_tokens":1372,"output_tokens_details":{"image_tokens":1372,"text_tokens":0},"total_tokens":1461},"elapsed_seconds":44.668,"out":"/Users/radjathaher/projects/aceh/assets/img/fiber-datacenter-iso.png"}
