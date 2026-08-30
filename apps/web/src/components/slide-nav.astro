@@ -13,8 +13,24 @@ const paperUrl = `https://app.paper.design/file/01M18KDSJEN0TCH6K0JPSPVCA8/1-0/$
 ---
 
 <nav class="slide-nav" aria-label="Slide navigation">
-  <a class="btn" href={prev ? `/s/${prev}/` : undefined} aria-disabled={String(!prev)} rel="prev">← Previous</a>
-  <a class="btn" href={next ? `/s/${next}/` : undefined} aria-disabled={String(!next)} rel="next">Next →</a>
+  {
+    prev ? (
+      <a class="btn" href={`/s/${prev}/`} rel="prev">
+        ← Previous
+      </a>
+    ) : (
+      <span class="btn is-disabled">← Previous</span>
+    )
+  }
+  {
+    next ? (
+      <a class="btn" href={`/s/${next}/`} rel="next">
+        Next →
+      </a>
+    ) : (
+      <span class="btn is-disabled">Next →</span>
+    )
+  }
   <a class="deck" href={deckHref + "/"}>{deckTitle}</a>
   <span class="counter">{String(index + 1).padStart(2, "0")} / {total}</span>
   <a class="paper" href={paperUrl} target="_blank" rel="noopener">Open in Paper ↗</a>
@@ -50,7 +66,7 @@ const paperUrl = `https://app.paper.design/file/01M18KDSJEN0TCH6K0JPSPVCA8/1-0/$
     border-radius: var(--radius-sm);
     background: var(--color-ground);
   }
-  .btn[aria-disabled="true"] {
+  .btn.is-disabled {
     opacity: 0.3;
     pointer-events: none;
   }
