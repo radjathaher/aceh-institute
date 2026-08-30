@@ -1,0 +1,9 @@
+editing image (img2img) with 1 ref(s)
+error: http 400: {
+  "error": {
+    "message": "Invalid file 'image[0]': unsupported mimetype ('application/octet-stream'). Supported file formats are 'image/jpeg', 'image/png', and 'image/webp'.",
+    "type": "invalid_request_error",
+    "param": "image[0]",
+    "code": "unsupported_file_mimetype"
+  }
+}
