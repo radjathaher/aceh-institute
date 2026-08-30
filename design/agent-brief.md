@@ -35,3 +35,9 @@
 
 ## Done criteria per agent
 - All assigned slides exist, positioned in their row, named correctly, each screenshot-reviewed (or tree-checked), `finish_working_on_nodes` called. Sources appended to `outline/sources.md`. Report: list of artboard ids + names, images generated, any fact you could not source (left as "[verify]").
+
+## MODULE PAGES (addendum)
+- Module decks live on separate pages of the same file: M1 Sector Playbooks = pageId `2-0`, M2 Peer Case Studies = pageId `3-0`, M3 Gap Register = pageId `4-0`. Call `open_file({fileId, pageId})` first so the page is active, and still pass `fileId` on every call.
+- Each module page has its own parked master template copy (ids given in your prompt). Duplicate THAT one (not `1P-0`). Geometry on module pages: **row y = r*1560, slide x = n*2040** (r = item index 0-based, n = slide index 0-based). No dividers on module pages.
+- Naming: `M{module}-{item:02}-{n} {Item} · {Slide role}` (e.g. `M1-01-1 Gas and Arun · Market`). Section tag text: `M1 · SECTOR PLAYBOOK · GAS AND ARUN`. Slide number: `M1-01-1`.
+- Each module slide keeps the master anatomy (header / action title / subtitle / 2-3 panels / SO WHAT / source footer). Images: generate with `zsh /private/tmp/claude-501/-Users-radjathaher-projects-aceh/28f28c3d-f6cf-478e-a997-0bc6f4df0c9f/scratchpad/genimg.sh <out.png> "<prompt>"` (this helper WORKS with the style reference; `creative image --image` is broken). Reuse existing images in assets/img/ where the subject matches.

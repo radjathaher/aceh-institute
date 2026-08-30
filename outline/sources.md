@@ -278,3 +278,143 @@
 [555] Concierto Económico — Overview of the Economic Agreement (Law 12/2002) — https://conciertoeconomico.org/en/about-the-economic-agreement/overview/
 [559] DPMPTSP Aceh — Realisasi investasi Rp4,16 triliun pada triwulan 3 tahun 2025 (PMA Rp185.7B) — https://dpmptsp.acehprov.go.id/berita/kategori/release/dpmptsp-aceh-catat-realisasi-investasi-rp-4-16-triliun-pada-triwulan-3-tahun-2025
 [560] AJNN — Ekspor Aceh capai USD 61,35 juta Juli 2025, dominan batubara (coal 70.2%) — https://www.ajnn.net/news/ekspor-aceh-capai-usd-61-35-juta-juli-2025-dominan-batubara/index.html
+
+# Agent M2b range 1000-1099: M2 peer case studies r5 Dubai/DIFC/JAFZA, r6 Sarawak, r7 Singapore EDB/JTC, r8 Papua
+[1000] DIFC Courts — About DIFC Courts (common-law courts of the Centre) — https://www.difccourts.ae/about/difc-courts
+[1001] DIFC — Laws and regulations (Dubai Law 9/2004, Dubai Law 5/2021, federal financial free zone framework) — https://www.difc.com/business/laws-and-regulations
+[1002] DIFC — Dubai International Financial Centre announces landmark annual results for 2025 (8,844 active registered companies) — https://www.difc.com/whats-on/news/dubai-international-financial-centre-announces-landmark-annual-results-for-2025
+[1003] DP World — Jafza turns 40 with record US$190bn in trade, 2025 — https://www.dpworld.com/en/news/jafza-turns-40-with-record-190bn-in-trade
+[1004] Dubai Media Office — Hamdan bin Mohammed highlights Jafza's significant contribution to Dubai's economy over four decades (Jafza + Jebel Ali Port = 36% of Dubai GDP), 5 May 2025 — https://www.mediaoffice.ae/en/news/2025/may/05-05/hamdan-bin-mohammed-highlights-jafzas-significant-contribution-to-dubais-economy-over-4-decades
+[1005] IMF — United Arab Emirates: 2009 Article IV Consultation, Country Report 10/42 (Dubai World US$26bn debt standstill, Nov 2009), Feb 2010 — https://www.imf.org/external/pubs/ft/scr/2010/cr1042.pdf
+[1006] ConstitutionNet — Restoring constitutional equality: Sabah and Sarawak, Art 1(2) amendment (MA63), Dec 2021 — https://constitutionnet.org/news/restoring-constitutional-equality-sabah-and-sarawak-do-proposed-amendments-malaysian-federal
+[1007] Sarawak Tribune — SST revenue of RM19.55bn as of last year (5% state sales tax on petroleum products, 2019-24) — https://www.sarawaktribune.com/sst-revenue-of-rm19-55b-as-of-last-year/
+[1008] Borneo Post — Sarawak expects highest revenue of RM14.2bn in 2025, 11 Nov 2024 — https://www.theborneopost.com/2024/11/11/sarawak-expects-highest-revenue-of-rm14-2-bln-in-2025/
+[1009] Malaysian Bar — MyConstitution: Sabah, Sarawak and special interests (immigration autonomy, Immigration Act Part VII) — https://www.malaysianbar.org.my/constitutional_law_committee/my_constitution_sabah_sarawak_and_special_interests.html
+[1010] Immigration Department of Malaysia — Endorsement of exemption, Section 66 (entry to Sabah/Sarawak) — https://www.imi.gov.my/index.php/en/main-services/pass/endorsement-of-exemption-section-66/
+[1011] Malay Mail — PM Anwar: Petros to be Sarawak's oil and gas aggregator from March 2025, 17 Feb 2025 — https://www.malaymail.com/news/malaysia/2025/02/17/pm-anwar-petros-to-be-sarawaks-oil-and-gas-aggregator-from-march-2025/166976
+[1012] The Edge Malaysia — Sarawak state sales tax suit against Petronas (settled 2020) — https://theedgemalaysia.com/node/790701
+[1013] National Library Board Singapore — Economic Development Board is established, 1 Aug 1961 — https://eresources.nlb.gov.sg/history/events/509d1656-8fc5-405f-8eec-ad058d8a540c
+[1014] National Library Board Singapore — Jurong Town Corporation, 1968 — https://www.nlb.gov.sg/main/article-detail?cmsuuid=8d3212f9-67b7-413e-b2ad-cd7cfc335dc2
+[1015] Singapore EDB — EDB Year 2024 in Review (S$13.5bn fixed asset investment, 18,700 jobs) — https://www.edb.gov.sg/en/about-edb/media-releases-publications/edb-year-2024-in-review.html
+[1016] Singapore EDB — EDB offices worldwide (22 offices) — https://www.edb.gov.sg/en/contact/edb-offices.html
+[1017] JTC Corporation — Annual Report FY2023 (industrial land portfolio ~7,000 ha) — https://www.jtc.gov.sg/-/media/project/jtc-cx/corpweb/assets/about-jtc/resources/jtc-annual-report-fy2023.pdf
+[1018] Singapore Statutes Online — Constitution of the Republic of Singapore (1963/1965) — https://sso.agc.gov.sg/Act/CONS1963?ViewType=Pdf
+[1019] Peraturan BPK — UU 2/2021 Perubahan Kedua atas UU 21/2001 tentang Otonomi Khusus Papua (Dana Otsus 2.25% DAU to 2041) — https://peraturan.bpk.go.id/Details/293302/pmk-no- [verify URL]
+[1020] Peraturan BPK — UU 11/2006 tentang Pemerintahan Aceh (Ps 8, 156, 183, 189) — https://peraturan.bpk.go.id/Details/40174/uu-no-11-tahun-2006
+[1021] The Aceh Institute — Policy paper, Sept 2025 (extend Otsus Papua-style to 2041; independent managing body) — https://pintoe.co/datapdf/Policy-Peper-The-Aceh-Institue-September-2025.pdf
+[1022] CNN Indonesia — Berapa besaran dana Otsus Papua dan Aceh di RAPBN 2027 (Aceh Rp4.15T), 20 Aug 2026 — https://www.cnnindonesia.com/nasional/20260820140351-20-1394441/berapa-besaran-dana-otsus-papua-dan-aceh-di-rapbn-2027
+[1023] Jurnal Politik UI — Aceh and Papua ethno-nationalism compared — https://scholarhub.ui.ac.id/politik/vol9/iss1/3/
+[1024] Kompas — Baleg DPR setujui hasil penyusunan RUU Pemerintahan Aceh (Otsus 2.5% DAU proposal), 26 May 2026 — https://nasional.kompas.com/read/2026/05/26/15415111/baleg-dpr-setujui-hasil-penyusunan-ruu-pemerintahan-aceh
+[1025] Peraturan BPK — PP 3/2015 tentang Kewenangan Pemerintah yang Bersifat Nasional di Aceh — https://peraturan.go.id/id/pp-no-3-tahun-2015
+[1026] Peraturan BPK — PP 20/2007 tentang Partai Politik Lokal di Aceh — https://peraturan.go.id/id/pp-no-20-tahun-2007
+
+# Agent M1c range 800-899 (M1 Sector Playbooks rows 8-11: mining, logistics, creative/digital, resilience)
+[800] BPS Aceh — Ekonomi Aceh triwulan IV 2025 terkontraksi 1,61% y-o-y; 2025 tumbuh 2,97%, 5 Feb 2026 — https://aceh.bps.go.id/id/pressrelease/2026/02/05/1194/ekonomi-aceh-triwulan-iv-2025--terkontraksi-sebesar-1-61-persen--y-on-y-.html
+[801] The Tapaktuan Post — Pemkab Aceh Selatan–PT Kobexindo Cement teken MoU pendirian pabrik, investasi Rp10T, May 2024 — https://thetapaktuanpost.com/kategori/pemerintahan/pemkab-aceh-selatan-pt-kobexindo-cement-teken-mou-pendirian-pabrik-nilai-investasi-mencapai-rp10-t/
+[802] Indonews — Salahi aturan, pencabutan 180 IUP oleh BKPM termasuk Aceh harus dibatalkan, Feb 2022 — https://indonews.id/artikel/324596/Salahi-Aturan-Pencabutan-IUP-di-Aceh-Harus-Dibatalkan/
+[803] Peraturan.go.id — PP 3/2015 tentang Kewenangan Pemerintah yang Bersifat Nasional di Aceh — https://peraturan.go.id/id/pp-no-3-tahun-2015
+[804] Kumparan/acehkini — Anggota DPR RI minta Pusat hormati kekhususan Aceh terkait minerba, 2023 — https://kumparan.com/acehkini/anggota-dpr-ri-minta-pusat-hormati-kekhususan-aceh-terkait-minerba-1zqV923L3vE
+[805] Medcom — Belum ada respons Pempus soal kekhususan Aceh dalam kelola minerba, 2022 — https://www.medcom.id/ekonomi/bisnis/lKYqMZjK-belum-ada-respons-pempus-soal-kekhususan-aceh-dalam-kelola-minerba
+[806] AJNN — Ekspor Aceh capai US$61,35 juta Juli 2025, batubara 70,2%, India 72,4% — https://www.ajnn.net/news/ekspor-aceh-capai-usd-61-35-juta-juli-2025-dominan-batubara/index.html
+[807] Bisnis.com — Mendag: ekspor Aceh 2025 turun 6,9% y-o-y, migas −65,6%, terdampak banjir, 11 Feb 2026 — https://ekonomi.bisnis.com/read/20260211/12/1952204/mendag-ungkap-ekspor-aceh-2025-turun-69-yoy-terdampak-bencana-banjir
+[808] Antara Aceh — Ekonomi Aceh triwulan I 2026 tumbuh 4,09%; pertambangan −9,05%, May 2026 — https://aceh.antaranews.com/berita/405531/ekonomi-aceh-triwulan-i-2026-tumbuh-409-persen
+[809] Peraturan BPK — UU 11/2006 tentang Pemerintahan Aceh (Art 151-152, 156, 159, 165, 172-173, 189) — https://peraturan.bpk.go.id/Details/40174/uu-no-11-tahun-2006
+[810] Pelindo Multi Terminal — Optimalkan kinerja dan fasilitas Pelabuhan Malahayati: 8.406 TEU Jan–Sep 2025 — https://pelindomultiterminal.co.id/news/pelindo-multi-terminal-optimalkan-kinerja-dan-fasilitas-di-pelabuhan-malahayati-dukung-pertumbuhan-ekonomi-aceh
+[811] Pelindo Multi Terminal — Disperindag Aceh tinjau Pelabuhan Krueng Geukueh, persiapan rute pelayaran Malaysia — https://pelindomultiterminal.co.id/news/disperindag-aceh-tinjau-pelabuhan-krueng-geukueh-persiapan-rute-pelayaran-malaysia
+[812] Kompas — Aceh targetkan pelayaran internasional ke Penang beroperasi Januari 2026; butuh kesepakatan bilateral RI–Malaysia, 14 Nov 2025 — https://regional.kompas.com/read/2025/11/14/143516678/aceh-targetkan-pelayaran-internasional-ke-penang-beroperasi-januari-2026
+[813] Indomaritim — Aceh to resume development of shipping route to Malaysia's Penang, 29 Aug 2026 — https://www.indomaritim.com/2026/08/29/aceh-to-resume-development-of-shipping-route-to-malaysias-penang/
+[814] Waspada — LBH Kantara gugat Presiden dan Menteri Perhubungan atas implementasi UUPA soal pelabuhan (6/Pdt.G/2025/PN Ksp), 24 Sep 2025 — https://www.waspada.id/aceh/tuntut-implementasi-uupa-soal-pelabuhan-aceh-lbh-kantara-gugat-presiden-dan-menteri-perhubungan/
+[815] Peraturan BPK — Perpres 11/2010 tentang Kerja Sama Internasional Pemerintah Aceh — https://peraturan.bpk.go.id/Home/Details/41035/perpres-no-11-tahun-2010
+[816] Peraturan BPK — Perpres 38/2015 tentang Kerjasama Pemerintah dengan Badan Usaha (KPBU) — https://peraturan.bpk.go.id/Details/41764/perpres-no-38-tahun-2015
+[817] LKPP — Sosialisasi Peraturan LKPP No 1 Tahun 2025, kerja sama pemerintah dan swasta — https://www.lkpp.go.id/read/bu/sosialisasi-peraturan-lkpp-no-1-tahun-2025-perkuat-kerja-sama-pemerintah-dan-swasta
+[818] Waspada Aceh — BPKS perlu perbaikan tata kelola: dana negara 2003–2024 Rp4,83T vs PNBP Rp48,71B; anggaran 2026 Rp36,4B — https://waspadaaceh.com/bpks-perlu-perbaikan-tata-kelola-dan-inklusi-untuk-maksimalkan-investasi-sabang/
+[819] Peraturan BPK — UU 37/2000 tentang Kawasan Perdagangan Bebas dan Pelabuhan Bebas Sabang — https://peraturan.bpk.go.id/Details/45244/uu-no-37-tahun-2000
+[820] Humas Aceh — Gubernur Mualem dorong Satu Data Aceh lebih akurat dan terintegrasi, 29 Apr 2025 — https://humas.acehprov.go.id/gubernur-mualem-dorong-satu-data-aceh-lebih-akurat-dan-terintegrasi/
+[821] KemenPAN-RB — Menilik keberhasilan penerapan SPBE di ujung barat Indonesia (Aceh SPBE 3.62; 128 aplikasi) — https://menpan.go.id/site/berita-terkini/menilik-keberhasilan-penerapan-spbe-di-ujung-barat-indonesia
+[822] Infopublik — Desa blank spot di Aceh jadi fokus percepatan akses internet Kemkomdigi (149 desa), Mar 2025 — https://infopublik.id/kategori/nusantara/911389/desa-blank-spot-di-aceh-jadi-fokus-percepatan-akses-internet-kemkomdigi
+[823] CNN Indonesia — 536 desa di Aceh tak punya akses internet, Jul 2022 — https://www.cnnindonesia.com/teknologi/20220724021933-192-825322/536-desa-di-aceh-tak-punya-akses-internet
+[824] Antara — APJII catat tingkat penetrasi internet Indonesia capai 80,66%, 2025 — https://www.antaranews.com/berita/5019229/apjii-catat-tingkat-penetrasi-internet-indonesia-capai-8066-persen
+[825] Anterokini — Mualem tetapkan 10 prioritas pembangunan Aceh 2027, fokus syariat hingga transformasi digital, 25 Apr 2026 — https://anterokini.com/2026/04/25/mualem-tetapkan-10-prioritas-pembangunan-aceh-2027-fokus-pada-syariat-hingga-transformasi-digital/
+[826] Komdigi Ditjen Telekomunikasi — Perizinan penyelenggaraan jaringan telekomunikasi (BUMN, BUMD, swasta, koperasi eligible) — https://dittel.komdigi.go.id/pelayanan/pelayanan-perizinan-telekomunikasi/jaringan-telekomunikasi.html
+[827] JDIH Aceh — Satu Data menuju Aceh Smart Province: upaya Kominsa wujudkan Aceh SIAT (Qanun 7/2020) — https://jdih.acehprov.go.id/news/post/satu-data-menuju-aceh-smart-province-upaya-nyata-kominsa-wujudkan-aceh-siat
+[828] Waspada Aceh — BPS: jumlah pekerja Aceh naik, didominasi sektor informal (64,15%), 2026 — https://waspadaaceh.com/bps-jumlah-pekerja-aceh-naik-didominasi-sektor-informal/
+[829] BPS Aceh — Tingkat Pengangguran Terbuka Februari 2026 sebesar 5,88%, 5 May 2026 — https://aceh.bps.go.id/id/pressrelease/2026/05/05/1212/tingkat-pengangguran-terbuka--tpt--sebesar-5-88-persen.html
+[830] Setkab — Presiden Prabowo tinjau bencana di Aceh Tamiang, Dec 2025 — https://setkab.go.id/prabowo-tinjau-bencana-di-aceh-tamiang/
+[831] Kompas — Jumlah penduduk miskin Aceh naik tembus 713.000 jiwa (Mar 2026: 12,34%), 6 Aug 2026 — https://regional.kompas.com/read/2026/08/06/094545478/jumlah-penduduk-miskin-aceh-naik-tembus-713000-jiwa-bps-soroti-dampak
+[832] Tribun Aceh — BPK RI soroti banyak proyek dana Otsus Aceh terbengkalai (LHP LKPD 2025), 22 Jun 2026 — https://aceh.tribunnews.com/nanggroe/1031012/bpk-ri-soroti-banyak-proyek-dana-otsus-aceh-terbengkalai
+[833] Kompas — Kemiskinan di Aceh dan akuntabilitas dana Otsus (Rp104,23T kumulatif; infra ~45% vs pemberdayaan ~10%), 18 Jun 2026 — https://regional.kompas.com/read/2026/06/18/05262011/kemiskinan-di-aceh-dan-akuntabilitas-dana-otsus
+[834] Pemerintah Aceh — Qanun Aceh 1/2026 tentang APBA 2026 (capex Rp575,97B) — https://acehprov.go.id/media/2026.02/qanun_aceh_nomor_1_tahun_2026_tentang_apba1.pdf
+[835] KPBU Kemenkeu — Palapa Ring Paket Barat (Riau/Kepri; tidak mencakup Aceh) — https://kpbu.kemenkeu.go.id/proyek/detail/25-palapa-ring-paket-barat
+[836] CNBC Indonesia — RI siapkan 4 titik pusat internet Asia Pasifik (Kepmen KP 14/2021 landing sites), 27 Aug 2026 — https://www.cnbcindonesia.com/tech/20260827122804-37-762696/ri-siapkan-4-titik-jadi-pusat-internet-asia-pasifik-ada-lokasi-di-ntt
+[837] IIX-APJII — Indonesia Internet Exchange node list (13 provinces, no Aceh) — https://iix.net.id/
+[838] GMA Labs — Indonesia 700 MHz and 2.6 GHz spectrum allocation finalized (Telkomsel, Indosat, XLSmart), 22 Jul 2026 — https://www.gmalabs.com/post/indonesia-700-mhz-and-2-6-ghz-spectrum-allocation-finalized
+[839] Common Room — Meneguhkan jalan menuju rekognisi internet komunitas di Indonesia (Komdigi sandbox, Sep 2025) — https://www.commonroom.info/meneguhkan-jalan-menuju-rekognisi-internet-komunitas-di-indonesia/
+[840] Jogloabang — PP 54/2017 tentang Badan Usaha Milik Daerah (Perumda vs Perseroda) — https://www.jogloabang.com/ekbis/pp-54-2017-badan-usaha-milik-daerah
+[841] Antara — OJK sebut belum ada pemerintah daerah yang ajukan izin obligasi daerah (POJK 10/2024), Jun 2025 — https://www.antaranews.com/berita/4872861/ojk-sebut-belum-ada-pemerintah-daerah-yang-ajukan-izin-obligasi-daerah
+[842] Waspada Aceh — Mawardi Nur tegaskan komitmen transformasi PT PEMA (telecom initiative), Jun 2026 — https://waspadaaceh.com/mawardi-nur-tegaskan-komitmen-transformasi-pt-pema-demi-kemajuan-aceh/
+[843] Waspada Aceh — Ekonomi Aceh tumbuh 4,86% triwulan II 2026; transportasi 7,12% PDRB — https://waspadaaceh.com/ekonomi-aceh-tumbuh-486-persen-pada-triwulan-ii-2026-kemiskinan-dan-pengangguran-masih-naik/
+[844] Antara Aceh — Aceh segera miliki pembangkit listrik tenaga angin; PLN kapasitas 1.049 MW, beban puncak 638 MW, Aug 2026 — https://aceh.antaranews.com/berita/410191/aceh-segera-miliki-pembangkit-listrik-tenaga-angin-begini-penjelasan-pln
+[845] Aceh Institute — Policy paper: Dana Otsus post-2027, independent managing body, productive investment, Sep 2025 — https://pintoe.co/datapdf/Policy-Peper-The-Aceh-Institue-September-2025.pdf
+[846] Dishub Aceh — Bandara Sultan Iskandar Muda tetap berstatus bandara internasional, 26 Apr 2024 — https://dishub.acehprov.go.id/2024/04/26/bandara-sultan-iskandar-muda-tetap-berstatus-bandara-internasional/
+
+# Agent M1a range 600-699: M1 Sector Playbooks items 00-03 (Gas and Arun · Digital utility · Sabang FTZ · Agro and fisheries)
+[600] Popularitas — Menteri ESDM setujui POD-I Tangkulo (215 MMBOE, 1.084 BSCF, FPSO + 84 km pipeline to ORF near Arun, to 2043), 9 Mar 2026 — https://popularitas.com/berita/menteri-esdm-setujui-pod-i-tangkulo-proyek-gas-raksasa-south-andaman-mulai-dikembangkan/
+[601] The National — Mubadala Energy signs initial gas supply deal with PLN EPI; FID target Jun 2026, first gas Q4 2028, 1 Dec 2025 — https://www.thenationalnews.com/business/energy/2025/12/01/mubadala-energy-signs-initial-deal-for-gas-supply-with-indonesias-pln-epi/
+[602] Pertamina Arun Gas — LNG Regasification, capacity 405 MMSCFD — https://pertaarungas.pertamina.com/Page/bisnis-kami/lng-regasification
+[603] Dialeksis — KEK Arun Lhokseumawe: 2,600 ha, Rp5.48T realised to Q3-2023, 2,415 jobs — https://dialeksis.com/invest-in-aceh/kek-arun-lhokseumawe-poros-industri-dan-investasi-masa-depan-di-barat-indonesia/
+[604] Antara Aceh — BPMA: realisasi 2025 9.060 BOEPD (gas 41,4 MMSCFD); target 2026 10.519 BOEPD, Jan 2026 — https://aceh.antaranews.com/berita/400882/bpma-targetkan-produksi-migas-2026-sebesar-10519-boepd-per-hari
+[605] Linear.co.id — Gas raksasa Aceh di laut dalam: mengapa BPMA dibatasi 12 mil — https://linear.co.id/gas-raksasa-aceh-di-laut-dalam-mengapa-bpma-dibatasi-12-mil/
+[606] Antara — BPMA–SKK Migas teken MoU keterlibatan Aceh kelola migas lepas pantai (coordination role), 21 May 2026 — https://m.antaranews.com/amp/berita/5580349/bpma-skk-migas-teken-mou-keterlibatan-aceh-kelola-migas-lepas-pantai
+[607] Ruangenergi — Dari 12 ke 200 mil: Aceh dorong revisi kewenangan hulu migas, Jun 2026 — https://www.ruangenergi.com/dari-12-ke-200-mil-aceh-dorong-revisi-kewenangan-hulu-migas/
+[608] Seanteronews — Gubernur Aceh minta Menteri ESDM tunda POD Tangkulo (wants onshore processing at Arun), 1 Jun 2026 — https://www.seanteronews.com/2026/06/01/gubernur-aceh-minta-menteri-esdm-tunda-pod-tangkulo/
+[609] Antara — Bahlil perintahkan Kepala BPMA tingkatkan lifting Blok Andaman; target ~300 MMSCFD, Aug 2026 — https://www.antaranews.com/berita/5680859/bahlil-perintahkan-kepala-bpma-untuk-tingkatkan-lifting-blok-andaman
+[610] Tribun Aceh — Pemerintah Aceh ungkap perusahaan lirik hilirisasi migas Blok Andaman di KEK Arun (Indoasia Oiltank, Dubai methanol, Jiangsu LNG), Jul 2026 — https://aceh.tribunnews.com/nanggroe/1033947/pemerintah-aceh-ungkap-sejumlah-perusahaan-lirik-hilirisasi-migas-blok-andaman-di-kek-arun
+[611] JDIH BPK — PP 5/2017 tentang KEK Arun Lhokseumawe — https://peraturan.bpk.go.id/Home/Details/5825
+[612] JDIH BPK — PP 23/2015 tentang Pengelolaan Bersama Sumber Daya Alam Minyak dan Gas Bumi di Aceh — https://peraturan.bpk.go.id/Home/Details/5588
+[613] The Jakarta Post — Harbour Energy sells Natuna assets, keeps Andaman presence (Andaman II 40% op, South Andaman 20%, Central Andaman 80%), 29 May 2026 — https://www.thejakartapost.com/business/2026/05/29/harbour-energy-sells-natuna-assets-for-215m-keeps-andaman-presence
+[614] JDIH BPK — UU 11/2006 tentang Pemerintahan Aceh (Ps 151, 152, 156, 160-162, 165, 172-173, 181, 189, 253) — https://peraturan.bpk.go.id/Details/40174/uu-no-11-tahun-2006
+[615] Komdigi Ditjen PPI — Perizinan penyelenggaraan jaringan telekomunikasi (BUMN, BUMD, swasta, koperasi eligible) — https://dittel.komdigi.go.id/pelayanan/pelayanan-perizinan-telekomunikasi/jaringan-telekomunikasi.html
+[616] Postel — Perizinan penyelenggaraan jaringan telekomunikasi berbasis tetap tertutup (Jartaptup) — https://www.postel.go.id/berita-perizinan-penyelenggaraan-jaringan-telekomunikasi-yang-berbasis-tetap-tertu-26-1780
+[617] JDIH BPK — PP 46/2021 tentang Pos, Telekomunikasi, dan Penyiaran — https://peraturan.bpk.go.id/Details/161970/pp-no-46-tahun-2021
+[618] Kemenkeu KPBU — Palapa Ring Paket Barat (Riau, Kepulauan Riau; Aceh not covered) — https://kpbu.kemenkeu.go.id/proyek/detail/25-palapa-ring-paket-barat
+[619] CNBC Indonesia — RI siapkan 4 titik pusat internet Asia Pasifik (Kepmen KP 14/2021: Jakarta, NTT, Manado, Jayapura), 27 Aug 2026 — https://www.cnbcindonesia.com/tech/20260827122804-37-762696/ri-siapkan-4-titik-jadi-pusat-internet-asia-pasifik-ada-lokasi-di-ntt
+[620] IIX-APJII — Indonesia Internet Exchange nodes (13 provinces, none in Aceh) — https://iix.net.id/
+[621] Infopublik — Desa blank-spot di Aceh (149) jadi fokus percepatan akses internet Komdigi, Mar 2025 — https://infopublik.id/kategori/nusantara/911389/desa-blank-spot-di-aceh-jadi-fokus-percepatan-akses-internet-kemkomdigi
+[622] GMA Labs — Indonesia 700 MHz and 2.6 GHz spectrum allocation finalized (Telkomsel, Indosat, XLSmart; 5G >=51% population in 5 years), 22 Jul 2026 — https://www.gmalabs.com/post/indonesia-700-mhz-and-2-6-ghz-spectrum-allocation-finalized
+[623] Common Room — Meneguhkan jalan menuju rekognisi internet komunitas (Komdigi regulatory sandbox, planning), Sep 2025 — https://www.commonroom.info/meneguhkan-jalan-menuju-rekognisi-internet-komunitas-di-indonesia/
+[624] Antara — JIP wujudkan kota pintar dengan penerapan 5G smart pole di Jakarta (Jakpro passive-infra BUMD precedent) — https://www.antaranews.com/berita/3640965/jip-wujudkan-kota-pintar-dengan-penerapan-5g-smart-pole-di-jakarta
+[625] Waspada Aceh — Mawardi Nur tegaskan komitmen transformasi PT PEMA (telecom initiative), Jun 2026 — https://waspadaaceh.com/mawardi-nur-tegaskan-komitmen-transformasi-pt-pema-demi-kemajuan-aceh/
+[626] Kominfo Ditjen PPI — Penyelenggaraan telekomunikasi khusus (licence class) — https://dittel.kominfo.go.id/pelayanan/pelayanan-perizinan-telekomunikasi/penyelenggaraan-telekomunikasi-khusus.html
+[627] Selular — Renstra Komdigi: jaringan 5G 4,44% residential coverage, target 8,5% 2026, Feb 2026 — https://selular.id/2026/02/masuk-renstra-komdigi-jaringan-5g-mentok-di-7/
+[628] Telkom — Mega proyek kabel laut SEA-ME-WE 5 mendarat di Dumai — https://www.telkom.co.id/sites/berita/id_ID/news/mega-proyek-kabel-laut-sea-me-we-5-telah-mendarat-di-dumai-202
+[629] CNN Indonesia — 536 desa di Aceh tak punya akses internet (12%), 24 Jul 2022 — https://www.cnnindonesia.com/teknologi/20220724021933-192-825322/536-desa-di-aceh-tak-punya-akses-internet
+[630] Antara — APJII: penetrasi internet Indonesia 80,66%, 2025 — https://www.antaranews.com/berita/5019229/apjii-catat-tingkat-penetrasi-internet-indonesia-capai-8066-persen
+[631] Waspada Aceh — BPKS perlu perbaikan tata kelola: state funding 2003-2024 Rp4,83T vs PNBP Rp48,71B; budget 2026 Rp36,4B, Jul 2026 — https://waspadaaceh.com/bpks-perlu-perbaikan-tata-kelola-dan-inklusi-untuk-maksimalkan-investasi-sabang/
+[632] Habanusantara — Pengembangan Kawasan Bebas Sabang masih terhambat: no national parent body, land, Jul 2026 — https://habanusantara.net/2026/07/pengembangan-kawasan-bebas-sabang-masih-terhambat-wali-nanggroe-identifikasi-persoalan-strategis.html
+[633] BPKS — Self-assessment: tourism 82% of investment in Kawasan Sabang — https://bpks.go.id/blog/153
+[634] JDIH BPK — UU 37/2000 tentang Kawasan Perdagangan Bebas dan Pelabuhan Bebas Sabang — https://peraturan.bpk.go.id/Details/45244/uu-no-37-tahun-2000
+[635] Kompas — Aceh targetkan pelayaran internasional ke Penang (needs RI–MY bilateral), 14 Nov 2025 — https://regional.kompas.com/read/2025/11/14/143516678/aceh-targetkan-pelayaran-internasional-ke-penang-beroperasi-januari-2026
+[636] Indomaritim — Aceh to resume development of shipping route to Penang, 29 Aug 2026 — https://www.indomaritim.com/2026/08/29/aceh-to-resume-development-of-shipping-route-to-malaysias-penang/
+[637] Waspada — LBH Kantara gugat Presiden dan Menhub atas implementasi UUPA soal pelabuhan (6/Pdt.G/2025/PN Ksp), 24 Sep 2025 — https://www.waspada.id/aceh/tuntut-implementasi-uupa-soal-pelabuhan-aceh-lbh-kantara-gugat-presiden-dan-menteri-perhubungan/
+[638] Pelindo Multi Terminal — Pelabuhan Malahayati Jan–Sep 2025: 8.406 TEU — https://pelindomultiterminal.co.id/news/pelindo-multi-terminal-optimalkan-kinerja-dan-fasilitas-di-pelabuhan-malahayati-dukung-pertumbuhan-ekonomi-aceh
+[639] Waspada Aceh (BPS Aceh) — Ekonomi Aceh Triwulan II-2026: agri 31,16%, trade 15,35%, gov 9,18%, construction 8,88%, transport 7,12%, 6 Aug 2026 — https://waspadaaceh.com/ekonomi-aceh-tumbuh-486-persen-pada-triwulan-ii-2026-kemiskinan-dan-pengangguran-masih-naik/
+[640] Antara Aceh — BPS: pengangguran terbuka Aceh; employment in agriculture 41,39%, May 2026 — https://aceh.antaranews.com/berita/405555/bps-pengangguran-terbuka-di-aceh-bertambah-038-persen
+[641] Antara — Mentan dorong kopi Gayo: ~35 ribu ton, 80% diekspor ke 17 negara — https://www.antaranews.com/berita/5649147/mentan-dorong-kopi-gayo-dongkrak-ekspor-dan-sejahterakan-petani-aceh
+[642] AJNN — Ekspor Aceh Juli 2025 US$61,35 juta: batubara 70,2%, kopi+rempah 11,5%, India 72,4% — https://www.ajnn.net/news/ekspor-aceh-capai-usd-61-35-juta-juli-2025-dominan-batubara/index.html
+[643] Bisnis — Mendag: ekspor Aceh 2025 turun 6,9% y-o-y (migas −65,6%), 11 Feb 2026 — https://ekonomi.bisnis.com/read/20260211/12/1952204/mendag-ungkap-ekspor-aceh-2025-turun-69-yoy-terdampak-bencana-banjir
+[644] The Atjeh — Ekonomi Aceh tumbuh 4,86%; ekspor Juni 2026 US$85,31 juta, Aug 2026 — https://www.theatjeh.net/2026/08/ekonomi-aceh-tumbuh-486-persen-ekspor.html
+[645] Pelindo Multi Terminal — Disperindag Aceh tinjau Pelabuhan Krueng Geukueh, persiapan rute pelayaran Malaysia — https://pelindomultiterminal.co.id/news/disperindag-aceh-tinjau-pelabuhan-krueng-geukueh-persiapan-rute-pelayaran-malaysia
+[646] JDIH BPK — Perpres 10/2021 tentang Bidang Usaha Penanaman Modal — https://peraturan.bpk.go.id/Details/161806/perpres-no-10-tahun-2021
+[647] Jogloabang — PP 54/2017 tentang BUMD (Perumda vs Perseroda, region >=51%) — https://www.jogloabang.com/ekbis/pp-54-2017-badan-usaha-milik-daerah
+[648] JDIH BPK — Perpres 38/2015 tentang Kerjasama Pemerintah dengan Badan Usaha (KPBU) — https://peraturan.bpk.go.id/Details/41764/perpres-no-38-tahun-2015
+[649] Tribun Aceh — Dana Bagi Hasil 2026 dipangkas: provinsi Rp327,8B → Rp136,9B (−58%); all-Aceh Rp1.138B → Rp419B — https://aceh.tribunnews.com/news/995020/dana-bagi-hasil-2026-kota-dan-kabupaten-di-aceh-dipangkas-hingga-71-persen-aceh-barat-terbesar
+[650] JDIH BPK — Perpres 23/2015 tentang Pengalihan Kanwil BPN Aceh menjadi Badan Pertanahan Aceh (12 Feb 2015, never executed) — https://peraturan.bpk.go.id/Home/Details/41749/perpres-no-23-tahun-2015
+[651] Norton Rose Fulbright — Hainan's island-wide customs closure (18 Dec 2025) and why it matters to foreign investors — https://www.nortonrosefulbright.com/en/knowledge/publications/be1c82df/hainans-island-wide-customs-closure-and-why-it-matters-to-foreign-investors
+[652] Malay Mail — PM Anwar: Petros to be Sarawak's oil and gas aggregator from March 2025, 17 Feb 2025 — https://www.malaymail.com/news/malaysia/2025/02/17/pm-anwar-petros-to-be-sarawaks-oil-and-gas-aggregator-from-march-2025/166976
+[653] Waspada Aceh — BPS: jumlah pekerja Aceh naik, didominasi sektor informal (64,15%) — https://waspadaaceh.com/bps-jumlah-pekerja-aceh-naik-didominasi-sektor-informal/
+[654] JDIH BPK — PP 3/2015 tentang Kewenangan Pemerintah yang Bersifat Nasional di Aceh — https://peraturan.go.id/id/pp-no-3-tahun-2015
+[655] Bisnis — Komdigi kerahkan SATRIA-1 kikis blank spot di Aceh Barat, 30 Apr 2025 — https://teknologi.bisnis.com/read/20250430/101/1873433/komdigi-kerahkan-satelit-satria-1-kikis-blank-spot-di-aceh-barat
+[656] Detik — BAKTI: tidak ada pembangunan BTS 4G baru di 2025 — https://inet.detik.com/law-and-policy/d-7526351/bakti-ungkap-tidak-ada-pembangunan-bts-4g-baru-di-tahun-2025
+[1027] Dialeksis — KEK Arun Lhokseumawe: 2,600 ha, Rp5.48T realised to Q3 2023, 2,415 jobs; PP 5/2017 — https://dialeksis.com/invest-in-aceh/kek-arun-lhokseumawe-poros-industri-dan-investasi-masa-depan-di-barat-indonesia/ ; https://peraturan.bpk.go.id/Home/Details/5825
+[1028] Jogloabang — PP 54/2017 tentang Badan Usaha Milik Daerah (Perumda vs Perseroda) — https://www.jogloabang.com/ekbis/pp-54-2017-badan-usaha-milik-daerah
+[1029] Kompas Regional (Kemenko Polkam) — Kemiskinan di Aceh dan akuntabilitas dana Otsus (kumulatif Rp104.23T s.d. 2024; infra ~45% vs pemberdayaan ~10%), 18 Jun 2026 — https://regional.kompas.com/read/2026/06/18/05262011/kemiskinan-di-aceh-dan-akuntabilitas-dana-otsus
