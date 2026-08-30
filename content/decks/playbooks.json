@@ -7,7 +7,23 @@
   "slides": [
     "m1-01-gas-arun-market",
     "m1-02-gas-arun-legal-map",
+    "m1-03-gas-arun-play",
+    "m1-04-digital-utility-market",
+    "m1-05-digital-utility-legal-map",
+    "m1-06-digital-utility-play",
+    "m1-07-sabang-market",
+    "m1-08-sabang-legal-map",
+    "m1-09-sabang-play",
+    "m1-10-agro-market",
     "m1-19-education-market",
-    "m1-20-education-legal-map"
+    "m1-20-education-legal-map",
+    "m1-21-education-play",
+    "m1-22-tourism-market",
+    "m1-23-tourism-legal-map",
+    "m1-24-tourism-play",
+    "m1-25-mining-market",
+    "m1-26-mining-legal-map",
+    "m1-27-mining-play",
+    "m1-28-logistics-market"
   ]
 }
