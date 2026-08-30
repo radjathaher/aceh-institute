@@ -15,6 +15,14 @@
     "m1-08-sabang-legal-map",
     "m1-09-sabang-play",
     "m1-10-agro-market",
+    "m1-11-agro-legal-map",
+    "m1-12-agro-play",
+    "m1-13-halal-market",
+    "m1-14-halal-legal-map",
+    "m1-15-halal-play",
+    "m1-16-renewables-market",
+    "m1-17-renewables-legal-map",
+    "m1-18-renewables-play",
     "m1-19-education-market",
     "m1-20-education-legal-map",
     "m1-21-education-play",
@@ -24,6 +32,14 @@
     "m1-25-mining-market",
     "m1-26-mining-legal-map",
     "m1-27-mining-play",
-    "m1-28-logistics-market"
+    "m1-28-logistics-market",
+    "m1-29-logistics-legal-map",
+    "m1-30-logistics-play",
+    "m1-31-creative-market",
+    "m1-32-creative-legal-map",
+    "m1-33-creative-play",
+    "m1-34-resilience-market",
+    "m1-35-resilience-legal-map",
+    "m1-36-resilience-play"
   ]
 }
