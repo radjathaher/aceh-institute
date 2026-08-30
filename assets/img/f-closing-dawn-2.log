@@ -1,3 +1,0 @@
-generating image with gpt-image-2
-done in 31.228s
-{"provider":"openai","endpoint":"/v1/images/generations","model":"gpt-image-2","input":{"kind":"prompt","source":"Dawn over an abstract tropical coastline: calm sea, low dark headland silhouette with palms, soft rising sun, thin horizontal light bands, no buildings, no towers, no minarets. Editorial documentary photograph, ink-black and deep-red accents on white, high contrast, minimal, no text, no flags, no logos, no recognisable faces."},"output":"image","usage":{"input_tokens":77,"input_tokens_details":{"image_tokens":0,"text_tokens":77},"output_tokens":1372,"output_tokens_details":{"image_tokens":1372,"text_tokens":0},"total_tokens":1449},"elapsed_seconds":31.228,"out":"assets/img/f-closing-dawn-2.png"}

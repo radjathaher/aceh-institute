@@ -1,0 +1,40 @@
+---
+import "~/styles/global.css";
+
+type Props = {
+  title: string;
+  description?: string;
+  ogImage?: string;
+  canonical?: string;
+  prefetch?: string;
+};
+
+const { title, description = "Aceh 2045 · Production Autonomy — a source-linked reform agenda for Aceh.", ogImage = "/img/cover-sabang-strait.png", canonical, prefetch } = Astro.props;
+const site = Astro.site?.toString().replace(/\/$/, "") ?? "";
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    {canonical && <link rel="canonical" href={`${site}${canonical}`} />}
+    {prefetch && <link rel="prefetch" href={prefetch} />}
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:image" content={`${site}${ogImage}`} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <slot />
+  </body>
+</html>

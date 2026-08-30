@@ -1,0 +1,64 @@
+---
+type Props = {
+  index: number;
+  total: number;
+  prev?: string;
+  next?: string;
+  paperNodeId: string;
+};
+const { index, total, prev, next, paperNodeId } = Astro.props;
+const paperUrl = `https://app.paper.design/file/01M18KDSJEN0TCH6K0JPSPVCA8/1-0/${paperNodeId}`;
+---
+
+<nav class="slide-nav" aria-label="Slide navigation">
+  <a class="btn" href={prev ? `/s/${prev.slice(0, 2)}/` : undefined} aria-disabled={!prev}>← Previous</a>
+  <span class="counter">{String(index + 1).padStart(2, "0")} / {total}</span>
+  <a class="btn" href={next ? `/s/${next.slice(0, 2)}/` : undefined} aria-disabled={!next}>Next →</a>
+  <a class="paper" href={paperUrl} target="_blank" rel="noopener">Open in Paper ↗</a>
+</nav>
+
+<script>
+  const prev = document.querySelector<HTMLAnchorElement>('.slide-nav a[href][aria-disabled="false"]:first-child');
+  const links = Array.from(document.querySelectorAll<HTMLAnchorElement>(".slide-nav a.btn[href]"));
+  const [first, last] = [links.at(0), links.at(-1)];
+  const goPrev = first?.textContent?.includes("Previous") ? first : undefined;
+  const goNext = last?.textContent?.includes("Next") ? last : undefined;
+  window.addEventListener("keydown", (event) => {
+    if (event.metaKey || event.ctrlKey || event.altKey) return;
+    if (event.key === "ArrowLeft" && goPrev) window.location.href = goPrev.href;
+    if (event.key === "ArrowRight" && goNext) window.location.href = goNext.href;
+  });
+  void prev;
+</script>
+
+<style>
+  .slide-nav {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    max-width: 1600px;
+    margin: 0 auto;
+    padding: 16px 24px 48px;
+    font-family: var(--font-mono);
+    font-size: var(--text-source);
+    letter-spacing: var(--tracking-wide);
+  }
+  .btn {
+    padding: 8px 14px;
+    border: 1px solid var(--color-ink);
+    border-radius: var(--radius-sm);
+    background: var(--color-ground);
+    color: var(--color-ink);
+  }
+  .btn[aria-disabled="true"] {
+    opacity: 0.35;
+    pointer-events: none;
+  }
+  .counter {
+    color: var(--color-muted);
+  }
+  .paper {
+    margin-left: auto;
+    color: var(--color-red);
+  }
+</style>

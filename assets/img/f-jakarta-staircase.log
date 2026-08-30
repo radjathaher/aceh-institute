@@ -1,3 +1,0 @@
-generating image with gpt-image-2
-done in 32.292s
-{"provider":"openai","endpoint":"/v1/images/generations","model":"gpt-image-2","input":{"kind":"prompt","source":"A wide stone staircase rising toward a neoclassical portico with columns, seen from below at an angle, long shadows, a single red carpet line up the centre. Editorial documentary photograph, ink-black and deep-red accents on white, high contrast, minimal, no text, no flags, no logos, no recognisable faces, no recognisable landmark."},"output":"image","usage":{"input_tokens":77,"input_tokens_details":{"image_tokens":0,"text_tokens":77},"output_tokens":1372,"output_tokens_details":{"image_tokens":1372,"text_tokens":0},"total_tokens":1449},"elapsed_seconds":32.292,"out":"assets/img/f-jakarta-staircase.png"}

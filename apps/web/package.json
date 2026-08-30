@@ -1,0 +1,19 @@
+{
+  "name": "@aceh/web",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro check && astro build",
+    "preview": "astro preview",
+    "deploy": "wrangler deploy"
+  },
+  "dependencies": {
+    "@astrojs/check": "^0.9.10",
+    "astro": "^7.2.9",
+    "typescript": "5"
+  },
+  "devDependencies": {
+    "wrangler": "^4.127.1"
+  }
+}

@@ -1,0 +1,8 @@
+---
+type Props = { html: string; label: string };
+const { html, label } = Astro.props;
+---
+
+<div class="stage" role="img" aria-label={label}>
+  <div class="canvas" set:html={html} />
+</div>

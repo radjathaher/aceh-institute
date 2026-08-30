@@ -1,0 +1,58 @@
+/* Design tokens — mirrors the Paper.design "Design System" page (DS-02…DS-04). */
+:root {
+  --color-ground: #ffffff;
+  --color-ink: #0b0b0b;
+  --color-muted: #6b6b6b;
+  --color-line: #e4e4e4;
+  --color-tint: #fbecec;
+  --color-stripe: #1a1a1a;
+  --color-red: #d42127;
+  --color-red-deep: #9e1218;
+  --color-ok: #2e7d4f;
+  --color-warn: #c98a00;
+
+  --font-display: "Fraunces", Georgia, serif;
+  --font-body: "Inter", system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, monospace;
+
+  --text-source: 13px;
+  --text-caption: 15px;
+  --text-body: 18px;
+  --text-subtitle: 22px;
+  --text-h2: 30px;
+  --text-title: 44px;
+  --text-hero: 72px;
+  --text-bignum: 120px;
+  --text-web-h1: 56px;
+  --text-web-h2: 36px;
+  --text-web-body: 17px;
+
+  --leading-source: 18px;
+  --leading-body: 28px;
+  --leading-subtitle: 30px;
+  --leading-title: 48px;
+  --leading-hero: 76px;
+  --leading-web-body: 27px;
+  --leading-web-h1: 60px;
+
+  --tracking-tight: -0.02em;
+  --tracking-normal: 0em;
+  --tracking-wide: 0.08em;
+
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-pill: 999px;
+
+  --spacing-xs: 8px;
+  --spacing-sm: 16px;
+  --spacing-md: 24px;
+  --spacing-lg: 40px;
+  --spacing-xl: 64px;
+  --spacing-2xl: 96px;
+  --spacing-margin: 96px;
+  --spacing-section: 128px;
+
+  --container-prose: 720px;
+  --container-web: 1200px;
+  --container-slide: 1728px;
+}

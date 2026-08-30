@@ -1,0 +1,10 @@
+{
+  "ignorePatterns": [
+    "**/dist/**",
+    "**/.astro/**",
+    "**/node_modules/**",
+    "tools/paper-sync/raw/**",
+    "content/**",
+    "apps/web/public/**"
+  ]
+}

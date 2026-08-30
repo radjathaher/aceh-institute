@@ -1,2 +1,6 @@
-assets/img/*.png
+node_modules/
+dist/
+.astro/
 *.pdf
+.DS_Store
+docs/assets/img/

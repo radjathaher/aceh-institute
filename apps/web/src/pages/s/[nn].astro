@@ -1,0 +1,38 @@
+---
+import SiteLayout from "~/layouts/site-layout.astro";
+import SiteHeader from "~/components/site-header.astro";
+import SlideStage from "~/components/slide-stage.astro";
+import SlideNav from "~/components/slide-nav.astro";
+import { loadDeck } from "~/common/load-deck";
+
+export function getStaticPaths() {
+  const deck = loadDeck();
+  return deck.map((slide) => ({ params: { nn: slide.nn }, props: { slide, total: deck.length } }));
+}
+
+const { slide, total } = Astro.props;
+const title = slide.title ? `${slide.title} — Aceh 2045` : `Aceh 2045 · slide ${slide.nn}`;
+const ogImage = slide.images[0] ?? "/img/cover-sabang-strait.png";
+---
+
+<SiteLayout
+  title={title}
+  description={slide.sourceLine || undefined}
+  ogImage={ogImage}
+  canonical={`/s/${slide.nn}/`}
+  prefetch={slide.next ? `/s/${slide.next.slice(0, 2)}/` : undefined}
+>
+  <SiteHeader right={slide.section} />
+  <main class="deck-main">
+    <SlideStage html={slide.html} label={slide.title || slide.name} />
+  </main>
+  <SlideNav index={slide.index} total={total} prev={slide.prev} next={slide.next} paperNodeId={slide.paperNodeId} />
+</SiteLayout>
+
+<style>
+  .deck-main {
+    max-width: 1600px;
+    margin: 0 auto;
+    padding: 0 24px;
+  }
+</style>

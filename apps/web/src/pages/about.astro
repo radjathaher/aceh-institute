@@ -1,0 +1,61 @@
+---
+import SiteLayout from "~/layouts/site-layout.astro";
+import SiteHeader from "~/components/site-header.astro";
+---
+
+<SiteLayout title="About — Aceh Institute" canonical="/about/">
+  <SiteHeader />
+  <main class="about">
+    <p class="kicker">ABOUT</p>
+    <h1>Aceh has more legal room than its economy shows.</h1>
+    <p>
+      Aceh Institute is an independent research initiative on Aceh's special autonomy. Its first product,
+      <strong>Aceh 2045 · Production Autonomy</strong>, is a source-linked deck: what the Helsinki MoU promised,
+      what Law 11/2006 enacted, what was never implemented, and a production agenda that uses the powers Aceh
+      already holds before asking Jakarta for precise new ones.
+    </p>
+    <h2>Method</h2>
+    <p>
+      Every number carries a publisher and a date. Only primary-source figures or official figures reported via
+      news are charted; derived numbers say "derived", proposals say "proposal". Research cutoff: 30 August 2026.
+      Unverified items remain tagged on the slides.
+    </p>
+    <h2>Licence</h2>
+    <p>
+      The website code is open source under the MIT licence. The slides, research notes, generated images and the
+      Aceh Institute name are copyright © 2026 Radja Thaher, all rights reserved. Quote with attribution; ask
+      before reproducing.
+    </p>
+    <h2>Contact</h2>
+    <p>[Author name · email]</p>
+  </main>
+</SiteLayout>
+
+<style>
+  .about {
+    max-width: var(--container-prose);
+    margin: 0 auto;
+    padding: 48px 24px 96px;
+  }
+  .kicker {
+    font-family: var(--font-mono);
+    font-size: var(--text-source);
+    letter-spacing: var(--tracking-wide);
+    color: var(--color-red);
+  }
+  h1 {
+    font-family: var(--font-display);
+    font-size: var(--text-web-h1);
+    line-height: var(--leading-web-h1);
+    font-weight: 600;
+    letter-spacing: -0.03em;
+    margin: 8px 0 24px;
+  }
+  h2 {
+    font-family: var(--font-display);
+    font-size: var(--text-web-h2);
+    font-weight: 600;
+    letter-spacing: var(--tracking-tight);
+    margin: 40px 0 8px;
+  }
+</style>

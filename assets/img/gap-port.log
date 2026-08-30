@@ -1,3 +1,0 @@
-generating image with gpt-image-2
-done in 35.718s
-{"provider":"openai","endpoint":"/v1/images/generations","model":"gpt-image-2","input":{"kind":"prompt","source":"Editorial documentary photograph of container port cranes and a bulk cargo wharf on a tropical coast, morning haze, one crane painted deep red. Editorial documentary photograph or clean isometric illustration, ink-black and deep-red accents on white, high contrast, minimal, no text, no flags, no logos, no recognisable faces."},"output":"image","usage":{"input_tokens":70,"input_tokens_details":{"image_tokens":0,"text_tokens":70},"output_tokens":1372,"output_tokens_details":{"image_tokens":1372,"text_tokens":0},"total_tokens":1442},"elapsed_seconds":35.718,"out":"assets/img/gap-port.png"}

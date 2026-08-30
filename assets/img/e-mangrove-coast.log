@@ -1,3 +1,0 @@
-generating image with gpt-image-2
-done in 46.669s
-{"provider":"openai","endpoint":"/v1/images/generations","model":"gpt-image-2","input":{"kind":"prompt","source":"Restored mangrove forest along a tsunami-scarred coastline with an early-warning siren tower, drone view, low sun. Editorial documentary photograph or clean isometric illustration, ink-black and deep-red accents on white, high contrast, minimal, no text, no flags, no logos, no recognisable faces."},"output":"image","usage":{"input_tokens":69,"input_tokens_details":{"image_tokens":0,"text_tokens":69},"output_tokens":1372,"output_tokens_details":{"image_tokens":1372,"text_tokens":0},"total_tokens":1441},"elapsed_seconds":46.669,"out":"/Users/radjathaher/projects/aceh/assets/img/e-mangrove-coast.png"}
